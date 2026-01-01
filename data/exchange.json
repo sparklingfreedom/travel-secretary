@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-01T02:02:46.386Z",
-  "updateTimeLocal": "2026/1/1 上午10:02:46",
+  "updateTime": "2026-01-01T04:09:59.353Z",
+  "updateTimeLocal": "2026/1/1 下午12:09:59",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -161,7 +161,7 @@
       "name": "馬來幣",
       "flag": "🇲🇾",
       "cashBuy": 0,
-      "cashSell": 6.717,
+      "cashSell": 6.723,
       "spotBuy": 0,
       "spotSell": 0
     },
