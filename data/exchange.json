@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-12T13:43:50.469Z",
-  "updateTimeLocal": "2026/1/12 下午9:43:50",
+  "updateTime": "2026-01-12T14:28:02.356Z",
+  "updateTimeLocal": "2026/1/12 下午10:28:02",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.884,
+      "spotBuy": 1.883,
       "spotSell": 1.883
     },
     "SEK": {
