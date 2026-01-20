@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-20T05:31:04.953Z",
-  "updateTimeLocal": "2026/1/20 下午1:31:04",
+  "updateTime": "2026-01-20T06:39:58.875Z",
+  "updateTimeLocal": "2026/1/20 下午2:39:58",
   "stocks": [
     {
       "id": "2330",
@@ -733,14 +733,14 @@
       "id": "1402",
       "name": "遠東新",
       "category": "紡織",
-      "price": 28.65,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 28.7,
+      "change": "0.05",
+      "changePercent": "0.17",
       "open": 28.55,
-      "high": 28.65,
+      "high": 28.7,
       "low": 28.45,
-      "volume": 6006,
-      "time": "13:29:57"
+      "volume": 7625,
+      "time": "13:30:00"
     },
     {
       "id": "1101",
@@ -837,14 +837,14 @@
       "id": "2201",
       "name": "裕隆",
       "category": "汽車",
-      "price": 32.4,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 31.9,
+      "change": "-0.50",
+      "changePercent": "-1.54",
       "open": 32.5,
       "high": 32.5,
       "low": 31.8,
-      "volume": 3851,
-      "time": "13:29:58"
+      "volume": 4097,
+      "time": "13:30:00"
     },
     {
       "id": "2105",
