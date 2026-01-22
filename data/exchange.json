@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-22T04:50:53.457Z",
-  "updateTimeLocal": "2026/1/22 下午12:50:53",
+  "updateTime": "2026-01-22T05:30:35.958Z",
+  "updateTimeLocal": "2026/1/22 下午1:30:35",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,36 +26,36 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.29,
-      "spotBuy": 42.3,
-      "spotSell": 42.262
+      "cashSell": 41.28,
+      "spotBuy": 42.29,
+      "spotSell": 42.252
     },
     "AUD": {
       "code": "AUD",
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 21.13,
-      "spotBuy": 21.42,
-      "spotSell": 21.403
+      "cashSell": 21.12,
+      "spotBuy": 21.41,
+      "spotSell": 21.393
     },
     "CAD": {
       "code": "CAD",
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.39,
-      "spotBuy": 22.79,
-      "spotSell": 22.782
+      "cashSell": 22.38,
+      "spotBuy": 22.78,
+      "spotSell": 22.772
     },
     "SGD": {
       "code": "SGD",
       "name": "新加坡幣",
       "flag": "🇸🇬",
       "cashBuy": 0,
-      "cashSell": 24.06,
-      "spotBuy": 24.55,
-      "spotSell": 24.547
+      "cashSell": 24.05,
+      "spotBuy": 24.54,
+      "spotSell": 24.537
     },
     "CHF": {
       "code": "CHF",
@@ -71,9 +71,9 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.19,
-      "spotBuy": 0.1973,
-      "spotSell": 0.1973
+      "cashSell": 0.1901,
+      "spotBuy": 0.1974,
+      "spotSell": 0.1974
     },
     "ZAR": {
       "code": "ZAR",
@@ -98,17 +98,17 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 18.06,
-      "spotBuy": 18.44,
-      "spotSell": 18.431
+      "cashSell": 18.05,
+      "spotBuy": 18.43,
+      "spotSell": 18.421
     },
     "THB": {
       "code": "THB",
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8789,
-      "spotBuy": 0.9923,
+      "cashSell": 0.8786,
+      "spotBuy": 0.992,
       "spotSell": 0
     },
     "PHP": {
